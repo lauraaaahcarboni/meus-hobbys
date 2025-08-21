@@ -1,0 +1,39 @@
+
+img{
+    width: 10%;
+    border-radius: 10px;
+}
+.container{
+    background-color: rgb(238, 225, 217);
+    margin: 0 auto;
+    margin: 20px auto; 
+    padding: 0 20px; 
+}
+h1{
+    margin: 10px 0 5px 0;   
+    color: #628560; 
+}
+li {
+ background-color: #9c9589;
+ margin: 5px auto;
+ padding: 10px;
+ border-radius: 10px;
+ box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.conteudo{
+    position: absolute; 
+    top: 30%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+   /* text-align: center;*/
+    color: white;
+    /*font-size: 48px;*/
+}
+.livroII{
+     position: absolute; 
+    top: 60%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
