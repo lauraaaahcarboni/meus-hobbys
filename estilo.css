@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -9,7 +10,7 @@ body {
     font-family: "Rubik", sans-serif;
     line-height: 1.6;
     background-color: #f8e6bf;
-    color: #f3f3f3;
+    color: #c5d1c7;
     padding: 20px;
 }
 
@@ -42,41 +43,13 @@ header h1 {
 
 
 .container {
-    max-width: 1000px;
-    margin: auto;
-}
-
-
-.livro {
-    display: flex;
-    background: #6f8b68;
+    max-width: 100%;
+    background: #84a07d;
     margin: 15px 0;
-    padding: 15px;
     border-radius: 8px;
     box-shadow: 0 0 8px rgba(88, 85, 85, 0.1);
-}
-
-.livro img {
-    width: 160px;
-    height: auto;
-    margin-right: 20px;
-    border-radius: 5px;
-}
-
-.livro .info {
-    flex: 1;
-}
-
-.livro h2 {
-    margin-bottom: 10px;
-}
-
-.livro ul {
-    margin-bottom: 10px;
-}
-div p{
-    color: #4c834a;
     text-align: center;
-    font-size: larger;
 }
-
+div{
+    
+}
